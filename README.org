@@ -4,6 +4,6 @@
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/crategus/cl-cffi-gtk.git |
-| commit  | ba198f7d                                        |
+| commit  | ba198f7                                        |
 | systems | cl-cffi-gtk                                     |
 |---------+-------------------------------------------------|
